@@ -2,10 +2,11 @@
 
 #include <iostream.h>
  
- void main()
+ int main()
  
  {
  
      cout<<"HELLO WORLD":
+     return 0; 
      
  }
