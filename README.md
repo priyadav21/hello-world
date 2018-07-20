@@ -1,2 +1,9 @@
 # hello-world
-Just trying Github
+
+#include <iostream.h>
+ 
+ void main()
+ { 
+     cout<<"HELLO WORLD":
+     
+ }
