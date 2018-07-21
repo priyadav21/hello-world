@@ -1,12 +1,2 @@
-# hello-world
-
-#include <iostream.h>
- 
- int main()
- 
- {
- 
-     cout<<"HELLO WORLD":
-     return 0; 
-     
- }
+# Hello- World
+an introduction to programming world! 
